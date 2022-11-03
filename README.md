@@ -3,7 +3,7 @@ Comparison of Bidding Methods of Facebook using AB Test
 
 # 1-) Business Problem
 
-Facebook recently introduced a new bidding type, 'averagebidding', as an alternative to the existing bidding type called 'maximumbidding'. One of our clients, decided to test this new feature and would like to run an A/B test to see if averagebidding converts more than maximumbidding. The A/B test has been going on for 1 month and client is now waiting for you to analyze the results of this A/B test. The ultimate success criterion for Bombabomba.com is Purchase. Therefore, the focus should be on the Purchase metric for statistical testing.
+Facebook recently introduced a new bidding type, 'averagebidding', as an alternative to the existing bidding type called 'maximumbidding'. One of our clients, decided to test this new feature and would like to run an A/B test to see if averagebidding converts more than maximumbidding. The A/B test has been going on for 1 month and client is now waiting for you to analyze the results of this A/B test. The ultimate success criterion for client is Purchase. Therefore, the focus should be on the Purchase metric for statistical testing.
 
 # 2-) Dataset and Variables
 
